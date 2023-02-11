@@ -1,0 +1,34 @@
+# python
+.ipynb_checkpoints
+__pycache__
+
+# python dev
+*.egg-info
+
+# IDEs
+.idea
+.vscode
+
+# mac
+.DS_Store
+
+#local app run
+
+# virtual environment
+env
+
+
+# version json
+version_info.json
+
+
+# env files
+.env*
+
+# security reports
+# trivy
+trivy_fs.log
+trivy_conf.log
+
+# bandit
+bandit_log.csv
